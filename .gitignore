@@ -1,0 +1,15 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.csv.gz
+*.duckdb
+*.duckdb.wal
+data/
+venv/
+.venv/
+*.log
+.roo/
